@@ -18,15 +18,3 @@ A 3D visualization tool for exploring bivariate function properties.
    ```sh
    npm run build
    ```
-
-## Deployment to GitHub Pages
-
-1. Initialize git and add remote (if not done already):
-   ```sh
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   ```
-
-2. Deploy:
-   ```sh
-   npm run deploy
-   ```
